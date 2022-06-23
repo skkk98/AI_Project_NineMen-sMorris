@@ -1,0 +1,15 @@
+Instructions for running the program.
+
+
+python <Program.py> <board1.txt> <board2.txt> <depth>
+
+Program.py -> Program you want to run(like MiniMaxOpening.py, MiniMaxGame.py, ABOpening.py, etc.)
+board1.txt -> text file which contains single line of the board position(like xxxxxxxWWxxxxxBBxxxxx)
+board2.txt -> Empty file preferred, this file will contain the board position after running the program(The Output)
+depth -> This is an integer value which will determine how much depth to evaluate
+
+
+Example - python MiniMaxOpening.py board1.txt board2.txt 2
+Example - python MiniMaxOpeningImproved.py board1.txt board2.txt 2
+
+Thank you!
